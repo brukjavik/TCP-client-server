@@ -1,0 +1,12 @@
+Segue abaixo como executar cada um dos códigos:
+
+Para a execução do Server:
+
+gcc Client.c -pthread
+./a.out
+
+Para a execução do Client:
+
+gcc Server.c -pthread
+./a.out
+
